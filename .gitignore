@@ -1,0 +1,18 @@
+# environment and caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# data: large and re-downloadable (see src/fetch_ea.py and ~/uganda-rainfall-climate)
+data/raw/
+data/processed/
+results/*.log
+
+# confidential: names projects and quotes from project documents (kept locally only)
+docs/contract_review.md
+
+# build artefacts
+paper/_manuscript_build.md
+paper/*.pdf
+figures/archive/

@@ -1,0 +1,60 @@
+key,Central,Eastern,Northern,Western,Uganda
+present|FIDIC Guide|P(any),0.516,0.475,0.573,0.559,0.544
+present|FIDIC Guide|days,5.316,6.36,5.021,5.321,5.349
+present|Monthly 1-in-10 (JCT practice)|P(any),0.976,0.966,0.976,0.986,0.977
+present|Monthly 1-in-10 (JCT practice)|days,10.293,13.761,10.429,9.07,10.575
+present|NEC4|P(any),0.976,0.966,0.976,0.986,0.977
+present|NEC4|days,2.942,4.631,3.368,2.722,3.32
+present|lwd per contract,112.533,146.502,119.902,97.367,117.061
+ssp245|CC|lwd per contract,122.752,157.95,128.817,107.675,126.94
+ssp245|CC|stale|FIDIC Guide|P(any),0.686,0.646,0.775,0.796,0.744
+ssp245|CC|stale|FIDIC Guide|days,9.173,9.752,8.29,9.52,8.973
+ssp245|CC|stale|Monthly 1-in-10 (JCT practice)|P(any),0.999,0.998,1.0,1.0,1.0
+ssp245|CC|stale|Monthly 1-in-10 (JCT practice)|days,16.977,21.205,16.65,16.063,17.253
+ssp245|CC|stale|NEC4|P(any),0.999,0.998,1.0,1.0,1.0
+ssp245|CC|stale|NEC4|days,5.412,7.172,5.785,5.13,5.763
+ssp245|CC|updated|FIDIC Guide|P(any),0.513,0.485,0.527,0.575,0.529
+ssp245|CC|updated|FIDIC Guide|days,5.495,6.767,5.13,5.519,5.538
+ssp245|CC|updated|Monthly 1-in-10 (JCT practice)|P(any),0.98,0.962,0.978,0.987,0.978
+ssp245|CC|updated|Monthly 1-in-10 (JCT practice)|days,10.806,14.278,11.147,9.45,11.143
+ssp245|CC|updated|NEC4|P(any),0.98,0.962,0.978,0.987,0.978
+ssp245|CC|updated|NEC4|days,3.139,4.658,3.616,2.863,3.499
+ssp245|uniform|lwd per contract,126.07,161.416,132.153,110.655,130.207
+ssp245|uniform|stale|FIDIC Guide|P(any),0.71,0.698,0.811,0.842,0.782
+ssp245|uniform|stale|FIDIC Guide|days,10.503,11.578,9.866,11.346,10.599
+ssp245|uniform|stale|Monthly 1-in-10 (JCT practice)|P(any),0.999,0.998,1.0,1.0,1.0
+ssp245|uniform|stale|Monthly 1-in-10 (JCT practice)|days,17.936,22.204,17.71,17.056,18.268
+ssp245|uniform|stale|NEC4|P(any),0.999,0.998,1.0,1.0,1.0
+ssp245|uniform|stale|NEC4|days,5.832,7.77,6.354,5.682,6.304
+ssp245|uniform|updated|FIDIC Guide|P(any),0.529,0.487,0.529,0.582,0.536
+ssp245|uniform|updated|FIDIC Guide|days,5.811,6.853,5.27,5.833,5.746
+ssp245|uniform|updated|Monthly 1-in-10 (JCT practice)|P(any),0.98,0.963,0.979,0.988,0.979
+ssp245|uniform|updated|Monthly 1-in-10 (JCT practice)|days,11.13,14.707,11.49,9.893,11.519
+ssp245|uniform|updated|NEC4|P(any),0.98,0.963,0.979,0.988,0.979
+ssp245|uniform|updated|NEC4|days,3.091,4.845,3.695,2.979,3.578
+ssp585|CC|lwd per contract,130.069,165.412,136.163,115.755,134.473
+ssp585|CC|stale|FIDIC Guide|P(any),0.794,0.75,0.859,0.91,0.842
+ssp585|CC|stale|FIDIC Guide|days,12.584,13.313,12.427,14.388,13.058
+ssp585|CC|stale|Monthly 1-in-10 (JCT practice)|P(any),1.0,0.998,0.999,1.0,0.999
+ssp585|CC|stale|Monthly 1-in-10 (JCT practice)|days,21.789,25.401,20.819,21.485,21.85
+ssp585|CC|stale|NEC4|P(any),1.0,0.998,0.999,1.0,0.999
+ssp585|CC|stale|NEC4|days,7.812,9.815,7.693,7.953,8.095
+ssp585|CC|updated|FIDIC Guide|P(any),0.522,0.502,0.536,0.565,0.535
+ssp585|CC|updated|FIDIC Guide|days,5.658,7.242,5.344,5.976,5.839
+ssp585|CC|updated|Monthly 1-in-10 (JCT practice)|P(any),0.979,0.968,0.977,0.984,0.978
+ssp585|CC|updated|Monthly 1-in-10 (JCT practice)|days,11.227,15.165,11.727,10.095,11.753
+ssp585|CC|updated|NEC4|P(any),0.979,0.968,0.977,0.984,0.978
+ssp585|CC|updated|NEC4|days,3.137,4.857,3.698,3.083,3.615
+ssp585|uniform|lwd per contract,134.058,169.567,139.538,118.822,138.01
+ssp585|uniform|stale|FIDIC Guide|P(any),0.805,0.764,0.871,0.92,0.854
+ssp585|uniform|stale|FIDIC Guide|days,14.433,14.98,14.251,16.017,14.817
+ssp585|uniform|stale|Monthly 1-in-10 (JCT practice)|P(any),1.0,0.998,0.999,1.0,0.999
+ssp585|uniform|stale|Monthly 1-in-10 (JCT practice)|days,22.673,26.079,21.784,22.175,22.691
+ssp585|uniform|stale|NEC4|P(any),1.0,0.998,0.999,1.0,0.999
+ssp585|uniform|stale|NEC4|days,8.018,9.925,8.155,8.144,8.39
+ssp585|uniform|updated|FIDIC Guide|P(any),0.525,0.5,0.527,0.566,0.532
+ssp585|uniform|updated|FIDIC Guide|days,5.844,7.338,5.385,6.148,5.948
+ssp585|uniform|updated|Monthly 1-in-10 (JCT practice)|P(any),0.979,0.966,0.976,0.983,0.977
+ssp585|uniform|updated|Monthly 1-in-10 (JCT practice)|days,11.513,15.352,11.957,10.403,12.007
+ssp585|uniform|updated|NEC4|P(any),0.979,0.966,0.976,0.983,0.977
+ssp585|uniform|updated|NEC4|days,3.123,4.937,3.756,3.123,3.658

@@ -1,0 +1,19 @@
+table,source,var,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,annual
+"Project D (Kapchorwa-Suam), original table 'Kihihi'",contract,Nn,1.0,1.0,4.0,3.0,2.0,1.0,0.0,3.0,3.0,4.0,4.0,2.0,28.0
+"Project D (Kapchorwa-Suam), original table 'Kihihi'",contract,Rn,50.0,52.0,109.0,97.0,86.0,24.0,22.0,73.0,120.0,144.0,119.0,58.0,954.0
+"Project D (Kapchorwa-Suam), original table 'Kihihi'",CHIRPS 1991-2020,Nn,1.0,1.2,3.6,7.9,8.7,6.0,6.6,7.8,4.9,8.3,4.8,2.2,63.0
+"Project D (Kapchorwa-Suam), original table 'Kihihi'",CHIRPS 1991-2020,Rn,36.5,42.1,101.8,190.5,201.9,149.0,166.0,179.8,136.6,197.3,122.3,52.3,1576.1
+"Project D (Kapchorwa-Suam), original table 'Kihihi'",CPC 1991-2020,Nn,0.9,1.1,3.2,5.5,4.8,3.0,3.2,4.2,3.4,3.7,3.2,1.7,37.9
+"Project D (Kapchorwa-Suam), original table 'Kihihi'",CPC 1991-2020,Rn,38.7,39.2,103.3,162.5,157.0,110.9,113.7,134.4,115.6,126.4,100.9,55.9,1258.5
+"Project D (Kapchorwa-Suam), addendum table 'Kapchorwa'",contract,Nn,3.0,6.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,6.0,102.0
+"Project D (Kapchorwa-Suam), addendum table 'Kapchorwa'",contract,Rn,164.5,259.0,583.0,666.9,1026.6,444.8,532.3,628.77,733.9,511.9,220.2,215.8,5987.67
+"Project D (Kapchorwa-Suam), addendum table 'Kapchorwa'",CHIRPS 1991-2020,Nn,1.0,1.2,3.6,7.9,8.7,6.0,6.6,7.8,4.9,8.3,4.8,2.2,63.0
+"Project D (Kapchorwa-Suam), addendum table 'Kapchorwa'",CHIRPS 1991-2020,Rn,36.5,42.1,101.8,190.5,201.9,149.0,166.0,179.8,136.6,197.3,122.3,52.3,1576.1
+"Project D (Kapchorwa-Suam), addendum table 'Kapchorwa'",CPC 1991-2020,Nn,0.9,1.1,3.2,5.5,4.8,3.0,3.2,4.2,3.4,3.7,3.2,1.7,37.9
+"Project D (Kapchorwa-Suam), addendum table 'Kapchorwa'",CPC 1991-2020,Rn,38.7,39.2,103.3,162.5,157.0,110.9,113.7,134.4,115.6,126.4,100.9,55.9,1258.5
+"Project B (Busunju-Kiboga-Hoima), table 'Hoima station'",contract,Nn,26.0,23.0,21.0,18.0,21.0,22.0,23.0,21.0,18.0,17.0,18.0,23.0,251.0
+"Project B (Busunju-Kiboga-Hoima), table 'Hoima station'",contract,Rn,7.0,7.0,11.0,13.0,11.0,9.0,9.0,11.0,13.0,15.0,13.0,9.0,128.0
+"Project B (Busunju-Kiboga-Hoima), table 'Hoima station'",CHIRPS 1991-2020,Nn,0.4,0.7,3.0,5.6,3.5,1.5,2.4,3.1,3.6,5.3,3.7,1.8,34.6
+"Project B (Busunju-Kiboga-Hoima), table 'Hoima station'",CHIRPS 1991-2020,Rn,28.7,41.9,114.9,166.3,122.1,75.6,85.1,121.8,136.6,168.1,121.8,54.9,1237.8
+"Project B (Busunju-Kiboga-Hoima), table 'Hoima station'",CPC 1991-2020,Nn,1.3,1.7,3.1,4.4,3.7,2.0,1.7,2.1,2.7,4.0,3.3,2.3,32.3
+"Project B (Busunju-Kiboga-Hoima), table 'Hoima station'",CPC 1991-2020,Rn,43.9,48.6,97.7,136.6,117.9,54.0,49.1,69.8,84.3,114.6,109.5,72.9,998.9

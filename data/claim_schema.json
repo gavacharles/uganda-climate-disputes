@@ -1,0 +1,241 @@
+{
+  "type": "object",
+  "properties": {
+    "claim_id": {
+      "type": "string"
+    },
+    "source_type": {
+      "type": "string"
+    },
+    "source_ref": {
+      "type": "string"
+    },
+    "project_name": {
+      "type": "string"
+    },
+    "employer": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "project_type": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "district": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "location_text": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "lat": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "lon": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "contract_sum_ugx": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "contract_form": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "FIDIC Red 1987",
+        "FIDIC Red 1999",
+        "FIDIC Red 2017",
+        "FIDIC Yellow 1999",
+        "FIDIC Yellow 2017",
+        "FIDIC Silver",
+        "FIDIC MDB Harmonised",
+        "PPDA standard (works)",
+        "NEC",
+        "other",
+        "unknown",
+        null
+      ]
+    },
+    "award_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "commencement_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "original_tfc_days": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "clause_cited": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "weather_type": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "rain",
+        "flood",
+        "dry spell/drought",
+        "heat",
+        "wind",
+        "landslide",
+        "other",
+        "unspecified",
+        null
+      ]
+    },
+    "event_start": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "event_end": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notice_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "climatic_data_cited": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "days_claimed": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "days_granted": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "money_claimed_ugx": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "concurrent_causes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "outcome": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "granted in full",
+        "granted in part",
+        "rejected",
+        "pending",
+        "withdrawn",
+        "unknown",
+        null
+      ]
+    },
+    "forum": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "none (Engineer determination only)",
+        "amicable settlement",
+        "DAB/DAAB",
+        "PPDA Appeals Tribunal",
+        "arbitration",
+        "court",
+        "unknown",
+        null
+      ]
+    },
+    "decision_reasons": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "records_quality": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field": {
+            "type": "string"
+          },
+          "quote": {
+            "type": "string"
+          },
+          "page": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "field",
+          "quote"
+        ]
+      }
+    }
+  },
+  "required": [
+    "claim_id",
+    "project_name",
+    "source_ref",
+    "source_type"
+  ]
+}

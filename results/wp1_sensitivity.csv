@@ -1,0 +1,65 @@
+site,product,baseline,baseline_n,lwd10,rp_empirical,rp_gev,ei,ei_method,verdict
+Kampala-Entebbe Expressway,CHIRPS,10 yr,10,34,11.0,,3.667,empirical,not exceptional
+Kampala-Entebbe Expressway,CHIRPS,20 yr,20,34,21.0,1000.0,333.333,gev,exceptional
+Kampala-Entebbe Expressway,CHIRPS,30 yr,30,34,31.0,394.155,131.385,gev,exceptional
+Kampala-Entebbe Expressway,CHIRPS,full,37,34,38.0,694.372,231.457,gev,exceptional
+Kampala-Entebbe Expressway,ARC2,10 yr,9,18,2.5,,0.833,empirical,not exceptional
+Kampala-Entebbe Expressway,ARC2,20 yr,17,18,3.6,9.188,3.063,gev,not exceptional
+Kampala-Entebbe Expressway,ARC2,30 yr,18,18,3.8,9.822,3.274,gev,not exceptional
+Kampala-Entebbe Expressway,ARC2,full,19,18,4.0,9.655,3.218,gev,not exceptional
+Masaka-Mbarara,CHIRPS,10 yr,10,17,11.0,,3.667,empirical,not exceptional
+Masaka-Mbarara,CHIRPS,20 yr,20,17,21.0,93.826,31.275,gev,exceptional
+Masaka-Mbarara,CHIRPS,30 yr,30,17,15.5,25.743,8.581,gev,exceptional
+Masaka-Mbarara,CHIRPS,full,37,17,19.0,25.258,8.419,gev,exceptional
+Masaka-Mbarara,ARC2,10 yr,9,14,3.333,,1.111,empirical,not exceptional
+Masaka-Mbarara,ARC2,20 yr,17,14,4.5,5.315,1.772,gev,not exceptional
+Masaka-Mbarara,ARC2,30 yr,18,14,4.75,5.445,1.815,gev,not exceptional
+Masaka-Mbarara,ARC2,full,19,14,5.0,5.878,1.959,gev,not exceptional
+Kabale-Kisoro,CHIRPS,10 yr,10,14,2.2,,0.733,empirical,not exceptional
+Kabale-Kisoro,CHIRPS,20 yr,20,14,3.0,3.838,1.279,gev,not exceptional
+Kabale-Kisoro,CHIRPS,30 yr,30,14,3.444,4.294,1.431,gev,not exceptional
+Kabale-Kisoro,CHIRPS,full,37,14,4.222,4.405,1.468,gev,not exceptional
+Kabale-Kisoro,ARC2,10 yr,9,10,2.5,,0.833,empirical,not exceptional
+Kabale-Kisoro,ARC2,20 yr,17,10,3.0,3.97,1.323,gev,not exceptional
+Kabale-Kisoro,ARC2,30 yr,18,10,2.714,3.393,1.131,gev,not exceptional
+Kabale-Kisoro,ARC2,full,19,10,2.5,3.122,1.041,gev,not exceptional
+Hoima-Butiaba-Wanseko,CHIRPS,10 yr,10,14,11.0,,3.667,empirical,not exceptional
+Hoima-Butiaba-Wanseko,CHIRPS,20 yr,20,14,21.0,54.167,18.056,gev,exceptional
+Hoima-Butiaba-Wanseko,CHIRPS,30 yr,30,14,31.0,91.421,30.474,gev,exceptional
+Hoima-Butiaba-Wanseko,CHIRPS,full,37,14,38.0,167.127,55.709,gev,exceptional
+Hoima-Butiaba-Wanseko,ARC2,10 yr,9,11,1.667,,0.556,empirical,not exceptional
+Hoima-Butiaba-Wanseko,ARC2,20 yr,17,11,2.0,2.143,0.714,gev,not exceptional
+Hoima-Butiaba-Wanseko,ARC2,30 yr,18,11,2.111,2.278,0.759,gev,not exceptional
+Hoima-Butiaba-Wanseko,ARC2,full,19,11,2.0,2.121,0.707,gev,not exceptional
+Gulu-Atiak,CHIRPS,10 yr,10,14,2.2,,0.733,empirical,not exceptional
+Gulu-Atiak,CHIRPS,20 yr,20,14,3.5,5.89,1.963,gev,not exceptional
+Gulu-Atiak,CHIRPS,30 yr,30,14,3.875,6.106,2.035,gev,not exceptional
+Gulu-Atiak,CHIRPS,full,37,14,4.222,6.805,2.268,gev,not exceptional
+Gulu-Atiak,ARC2,10 yr,9,19,5.0,,1.667,empirical,not exceptional
+Gulu-Atiak,ARC2,20 yr,17,19,9.0,12.343,4.114,gev,borderline
+Gulu-Atiak,ARC2,30 yr,18,19,9.5,12.161,4.054,gev,borderline
+Gulu-Atiak,ARC2,full,19,19,10.0,11.666,3.889,gev,not exceptional
+Mbale-Lwakhakha,CHIRPS,10 yr,10,32,11.0,,3.667,empirical,not exceptional
+Mbale-Lwakhakha,CHIRPS,20 yr,20,32,21.0,1000.0,333.333,gev,exceptional
+Mbale-Lwakhakha,CHIRPS,30 yr,30,32,31.0,1000.0,333.333,gev,exceptional
+Mbale-Lwakhakha,CHIRPS,full,37,32,38.0,140.654,46.885,gev,exceptional
+Mbale-Lwakhakha,ARC2,10 yr,9,18,10.0,,3.333,empirical,not exceptional
+Mbale-Lwakhakha,ARC2,20 yr,17,18,6.0,21.674,7.225,gev,exceptional
+Mbale-Lwakhakha,ARC2,30 yr,18,18,6.333,21.792,7.264,gev,exceptional
+Mbale-Lwakhakha,ARC2,full,19,18,6.667,23.681,7.894,gev,exceptional
+Kapchorwa-Suam,CHIRPS,10 yr,10,22,11.0,,3.667,empirical,not exceptional
+Kapchorwa-Suam,CHIRPS,20 yr,20,22,21.0,1000.0,333.333,gev,exceptional
+Kapchorwa-Suam,CHIRPS,30 yr,30,22,31.0,133.518,44.506,gev,exceptional
+Kapchorwa-Suam,CHIRPS,full,37,22,38.0,116.629,38.876,gev,exceptional
+Kapchorwa-Suam,ARC2,10 yr,9,11,3.333,,1.111,empirical,not exceptional
+Kapchorwa-Suam,ARC2,20 yr,17,11,3.6,6.467,2.156,gev,not exceptional
+Kapchorwa-Suam,ARC2,30 yr,18,11,3.8,6.989,2.33,gev,not exceptional
+Kapchorwa-Suam,ARC2,full,19,11,4.0,7.369,2.456,gev,not exceptional
+Moroto-Nakapiripirit,CHIRPS,10 yr,10,8,3.667,,1.222,empirical,not exceptional
+Moroto-Nakapiripirit,CHIRPS,20 yr,20,8,5.25,7.947,2.649,gev,not exceptional
+Moroto-Nakapiripirit,CHIRPS,30 yr,30,8,5.167,8.185,2.728,gev,not exceptional
+Moroto-Nakapiripirit,CHIRPS,full,37,8,6.333,10.637,3.546,gev,not exceptional
+Moroto-Nakapiripirit,ARC2,10 yr,9,11,3.333,,1.111,empirical,not exceptional
+Moroto-Nakapiripirit,ARC2,20 yr,17,11,4.5,12.481,4.16,gev,borderline
+Moroto-Nakapiripirit,ARC2,30 yr,18,11,4.75,13.769,4.59,gev,borderline
+Moroto-Nakapiripirit,ARC2,full,19,11,5.0,15.008,5.003,gev,exceptional
