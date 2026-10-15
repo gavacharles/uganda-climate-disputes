@@ -54,6 +54,7 @@ def fig10(substack=False):
         ax.bar(range(3), vals, color=[RED[3], RED[5], BLUE[3]], width=0.6)
         for i, v in enumerate(vals):
             ax.text(i, v + 4, f"{v:.0f} days", ha="center", fontsize=10, fontweight="bold")
+        ax.set_ylim(0, max(vals) * 1.18)
         ax.set_xticks(range(3), [r[0] for r in rows])
         ax.set_ylabel("Weather extension per 3-year contract")
         ax.set_title("Same contract, same rain: the rainfall table decides", loc="left")
@@ -77,7 +78,7 @@ def fig10(substack=False):
             ax.set_ylabel("R_n, mean monthly rain (mm)" if var == "Rn" else "N_n, mean days >= 10 mm", fontsize=8)
             tidy(ax)
             if i == 0 and j == 0:
-                ax.legend(fontsize=7, loc="upper left")
+                handles, labels = ax.get_legend_handles_labels()
     ax = fig.add_subplot(gs[:, 3])
     ev = e["EOT per contract (algebraic)"].values
     lab = ["D, original\ntable", "D, addendum\ntable", "D, normals\nfrom data", "B, table", "B, normals\nfrom data"]
@@ -89,9 +90,11 @@ def fig10(substack=False):
     ax.set_yticks(range(len(vals)), lab, fontsize=8)
     ax.invert_yaxis()
     ax.set_xlabel("EOT per 3-year contract (days)")
+    ax.set_xlim(0, max(vals) * 1.25)
     ax.set_title("Clause 1229 EOT, 2001-2022 starts", fontsize=9)
     ax.grid(axis="y", visible=False)
-    fig.suptitle("Clause 1229 average tables in two signed contracts vs the site climate", x=0.06, ha="left",
+    fig.legend(handles, labels, loc="upper center", bbox_to_anchor=(0.42, 0.985), ncol=3, fontsize=8, frameon=False)
+    fig.suptitle("Clause 1229 average tables in two signed contracts vs the site climate", x=0.06, y=1.02, ha="left",
                  fontweight="bold", fontsize=10)
     save(fig, "fig10_contract_tables")
     plt.close(fig)
