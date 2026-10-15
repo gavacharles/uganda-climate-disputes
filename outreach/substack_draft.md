@@ -172,6 +172,8 @@ That part, at least, we can settle before the first shovel goes in.
 
 ---
 
+**Cover image:** figures/cover_substack.png (1456 × 816; use as the post header and social preview)
+
 **Images:**
 
 - After Finding 5: figures/substack_contract_tables.png

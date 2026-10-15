@@ -29,3 +29,6 @@ The fix is drafting, not litigation. Name the dataset and location in the Contra
 Full paper in preparation. I'd value views from adjudicators, Engineers and counsel who have seen weather EOTs argued.
 
 #ConstructionLaw #FIDIC #ExtensionOfTime #ClimateRisk #DisputeAvoidance #Uganda #ContractDrafting
+
+---
+**Cover image:** figures/cover_linkedin.png (1200 × 1200)
