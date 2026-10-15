@@ -1,0 +1,73 @@
+window,point,product,indicator,value,baseline_mean,threshold_value_rp4tfc,rp_empirical,rp_gev,ei,verdict
+Sep-Dec 2023,Busunju,CHIRPS,lwd10,18.0,14.35,22.79,4.56,4.74,1.58,not exceptional
+Sep-Dec 2023,Busunju,CHIRPS,lwd5,45.0,40.05,49.35,3.73,4.5,1.5,not exceptional
+Sep-Dec 2023,Busunju,CHIRPS,total,578.96,490.78,611.89,5.86,7.48,2.49,not exceptional
+Aug-Dec 2024,Busunju,CHIRPS,lwd10,16.0,16.88,25.4,1.86,2.04,0.68,not exceptional
+Aug-Dec 2024,Busunju,CHIRPS,lwd5,42.0,48.38,58.37,1.24,1.24,0.41,not exceptional
+Aug-Dec 2024,Busunju,CHIRPS,total,514.34,589.18,23589.26,1.24,3.47,1.16,not exceptional
+Sep-Dec 2023,Busunju,ARC2,lwd10,,13.55,20.71,,,,n/a
+Sep-Dec 2023,Busunju,ARC2,lwd5,,33.91,42.18,,,,n/a
+Sep-Dec 2023,Busunju,ARC2,total,,468.0,643.55,,,,n/a
+Aug-Dec 2024,Busunju,ARC2,lwd10,13.0,15.67,23.82,1.36,1.49,0.5,not exceptional
+Aug-Dec 2024,Busunju,ARC2,lwd5,35.0,40.24,49.4,1.21,1.27,0.42,not exceptional
+Aug-Dec 2024,Busunju,ARC2,total,497.44,548.84,762.38,1.42,1.05,0.35,not exceptional
+Sep-Dec 2023,Busunju,CPC,lwd10,16.0,13.3,19.59,3.73,4.11,1.37,not exceptional
+Sep-Dec 2023,Busunju,CPC,lwd5,40.0,23.75,33.42,13.67,40.52,13.51,exceptional
+Sep-Dec 2023,Busunju,CPC,total,485.11,428.29,578.57,3.15,4.83,1.61,not exceptional
+Aug-Dec 2024,Busunju,CPC,lwd10,12.0,15.35,22.44,1.32,1.35,0.45,not exceptional
+Aug-Dec 2024,Busunju,CPC,lwd5,27.0,27.8,38.98,1.95,2.08,0.69,not exceptional
+Aug-Dec 2024,Busunju,CPC,total,444.35,499.76,658.91,1.52,1.49,0.5,not exceptional
+Sep-Dec 2023,Kiboga south,CHIRPS,lwd10,16.0,14.42,21.86,3.15,3.16,1.05,not exceptional
+Sep-Dec 2023,Kiboga south,CHIRPS,lwd5,43.0,38.75,47.8,3.73,4.18,1.39,not exceptional
+Sep-Dec 2023,Kiboga south,CHIRPS,total,508.92,472.39,177431.45,3.42,3.63,1.21,not exceptional
+Aug-Dec 2024,Kiboga south,CHIRPS,lwd10,13.0,18.08,26.6,1.21,1.24,0.41,not exceptional
+Aug-Dec 2024,Kiboga south,CHIRPS,lwd5,39.0,48.15,57.83,1.14,1.08,0.36,not exceptional
+Aug-Dec 2024,Kiboga south,CHIRPS,total,502.96,586.8,709.55,1.17,1.19,0.4,not exceptional
+Sep-Dec 2023,Kiboga south,ARC2,lwd10,,13.97,20.16,,,,n/a
+Sep-Dec 2023,Kiboga south,ARC2,lwd5,,33.55,42.98,,,,n/a
+Sep-Dec 2023,Kiboga south,ARC2,total,,441.83,549.97,,,,n/a
+Aug-Dec 2024,Kiboga south,ARC2,lwd10,19.0,16.97,23.79,2.43,3.38,1.13,not exceptional
+Aug-Dec 2024,Kiboga south,ARC2,lwd5,39.0,40.85,51.6,1.55,1.78,0.59,not exceptional
+Aug-Dec 2024,Kiboga south,ARC2,total,572.46,538.13,664.15,3.4,4.36,1.45,not exceptional
+Sep-Dec 2023,Kiboga south,CPC,lwd10,14.0,13.45,20.33,2.16,2.62,0.87,not exceptional
+Sep-Dec 2023,Kiboga south,CPC,lwd5,40.0,24.3,33.22,20.5,52.68,17.56,exceptional
+Sep-Dec 2023,Kiboga south,CPC,total,501.59,426.32,309544.52,4.56,3.95,1.32,not exceptional
+Aug-Dec 2024,Kiboga south,CPC,lwd10,13.0,15.35,23.1,1.46,1.61,0.54,not exceptional
+Aug-Dec 2024,Kiboga south,CPC,lwd5,25.0,28.48,38.2,1.46,1.51,0.5,not exceptional
+Aug-Dec 2024,Kiboga south,CPC,total,462.76,493.22,649.63,1.95,2.58,0.86,not exceptional
+Sep-Dec 2023,Kiboga,CHIRPS,lwd10,16.0,14.42,21.86,3.15,3.16,1.05,not exceptional
+Sep-Dec 2023,Kiboga,CHIRPS,lwd5,43.0,38.75,47.8,3.73,4.18,1.39,not exceptional
+Sep-Dec 2023,Kiboga,CHIRPS,total,508.92,472.39,177431.45,3.42,3.63,1.21,not exceptional
+Aug-Dec 2024,Kiboga,CHIRPS,lwd10,13.0,18.08,26.6,1.21,1.24,0.41,not exceptional
+Aug-Dec 2024,Kiboga,CHIRPS,lwd5,39.0,48.15,57.83,1.14,1.08,0.36,not exceptional
+Aug-Dec 2024,Kiboga,CHIRPS,total,502.96,586.8,709.55,1.17,1.19,0.4,not exceptional
+Sep-Dec 2023,Kiboga,ARC2,lwd10,,14.76,19.71,,,,n/a
+Sep-Dec 2023,Kiboga,ARC2,lwd5,,34.94,42.98,,,,n/a
+Sep-Dec 2023,Kiboga,ARC2,total,,459.22,561.29,,,,n/a
+Aug-Dec 2024,Kiboga,ARC2,lwd10,18.0,18.09,27.0,1.89,1.08,0.36,not exceptional
+Aug-Dec 2024,Kiboga,ARC2,lwd5,45.0,42.97,51.87,3.09,3.04,1.01,not exceptional
+Aug-Dec 2024,Kiboga,ARC2,total,597.0,562.48,681.58,3.4,3.48,1.16,not exceptional
+Sep-Dec 2023,Kiboga,CPC,lwd10,14.0,13.45,20.33,2.16,2.62,0.87,not exceptional
+Sep-Dec 2023,Kiboga,CPC,lwd5,40.0,24.3,33.22,20.5,52.68,17.56,exceptional
+Sep-Dec 2023,Kiboga,CPC,total,501.59,426.32,309544.52,4.56,3.95,1.32,not exceptional
+Aug-Dec 2024,Kiboga,CPC,lwd10,13.0,15.35,23.1,1.46,1.61,0.54,not exceptional
+Aug-Dec 2024,Kiboga,CPC,lwd5,25.0,28.48,38.2,1.46,1.51,0.5,not exceptional
+Aug-Dec 2024,Kiboga,CPC,total,462.76,493.22,649.63,1.95,2.58,0.86,not exceptional
+Sep-Dec 2023,Hoima,CHIRPS,lwd10,14.0,14.82,21.04,1.64,1.77,0.59,not exceptional
+Sep-Dec 2023,Hoima,CHIRPS,lwd5,36.0,39.72,50.94,1.21,1.09,0.36,not exceptional
+Sep-Dec 2023,Hoima,CHIRPS,total,485.43,491.59,578.63,1.86,1.82,0.61,not exceptional
+Aug-Dec 2024,Hoima,CHIRPS,lwd10,17.0,18.08,29.0,1.58,1.12,0.37,not exceptional
+Aug-Dec 2024,Hoima,CHIRPS,lwd5,50.0,50.7,66.0,1.64,1.12,0.37,not exceptional
+Aug-Dec 2024,Hoima,CHIRPS,total,680.21,615.63,778.91,4.56,1.0,0.33,not exceptional
+Sep-Dec 2023,Hoima,ARC2,lwd10,,15.91,22.97,,,,n/a
+Sep-Dec 2023,Hoima,ARC2,lwd5,,37.42,51.0,,,,n/a
+Sep-Dec 2023,Hoima,ARC2,total,,488.65,673.96,,,,n/a
+Aug-Dec 2024,Hoima,ARC2,lwd10,26.0,19.58,27.81,5.67,6.99,2.33,not exceptional
+Aug-Dec 2024,Hoima,ARC2,lwd5,47.0,46.52,61.0,2.0,1.12,0.37,not exceptional
+Aug-Dec 2024,Hoima,ARC2,total,642.25,606.16,825.69,2.27,1.15,0.38,not exceptional
+Sep-Dec 2023,Hoima,CPC,lwd10,17.0,13.38,20.47,3.73,4.58,1.53,not exceptional
+Sep-Dec 2023,Hoima,CPC,lwd5,21.0,22.88,32.64,1.64,1.85,0.62,not exceptional
+Sep-Dec 2023,Hoima,CPC,total,487.65,409.45,577.12,3.73,4.35,1.45,not exceptional
+Aug-Dec 2024,Hoima,CPC,lwd10,16.0,15.52,22.97,2.16,2.39,0.8,not exceptional
+Aug-Dec 2024,Hoima,CPC,lwd5,25.0,27.2,37.51,1.64,1.73,0.58,not exceptional
+Aug-Dec 2024,Hoima,CPC,total,582.61,481.33,658.85,4.1,5.08,1.69,not exceptional

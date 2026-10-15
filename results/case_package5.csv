@@ -1,0 +1,49 @@
+point,product,baseline,window,months,complete,EOT algebraic (spec),EOT positive months only,months V>0
+Masindi (station),CHIRPS,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,True,41.9,50.6,10
+Masindi (station),CHIRPS,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,True,38.4,66.8,23
+Masindi (station),CHIRPS,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,True,41.8,48.9,11
+Masindi (station),CHIRPS,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,True,35.7,63.3,22
+Masindi (station),CPC,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,True,23.1,36.1,9
+Masindi (station),CPC,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,True,11.0,60.2,15
+Masindi (station),CPC,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,True,20.4,31.1,9
+Masindi (station),CPC,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,True,0.0,51.0,13
+Masindi (station),ARC2,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,False,,,1
+Masindi (station),ARC2,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,False,,,4
+Masindi (station),ARC2,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,False,,,1
+Masindi (station),ARC2,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,False,,,4
+Masindi-Biiso road,CHIRPS,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,True,41.9,50.6,10
+Masindi-Biiso road,CHIRPS,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,True,38.4,66.8,23
+Masindi-Biiso road,CHIRPS,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,True,41.8,48.9,11
+Masindi-Biiso road,CHIRPS,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,True,35.7,63.3,22
+Masindi-Biiso road,CPC,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,True,23.1,36.1,9
+Masindi-Biiso road,CPC,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,True,11.0,60.2,15
+Masindi-Biiso road,CPC,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,True,20.4,31.1,9
+Masindi-Biiso road,CPC,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,True,0.0,51.0,13
+Masindi-Biiso road,ARC2,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,False,,,2
+Masindi-Biiso road,ARC2,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,False,,,5
+Masindi-Biiso road,ARC2,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,False,,,3
+Masindi-Biiso road,ARC2,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,False,,,6
+Kabaale-Kiziranfumbi,CHIRPS,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,True,9.1,20.6,7
+Kabaale-Kiziranfumbi,CHIRPS,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,True,6.2,39.4,16
+Kabaale-Kiziranfumbi,CHIRPS,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,True,10.4,18.7,8
+Kabaale-Kiziranfumbi,CHIRPS,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,True,5.8,37.7,17
+Kabaale-Kiziranfumbi,CPC,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,True,17.3,31.9,9
+Kabaale-Kiziranfumbi,CPC,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,True,4.6,56.4,15
+Kabaale-Kiziranfumbi,CPC,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,True,20.3,30.9,10
+Kabaale-Kiziranfumbi,CPC,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,True,3.0,53.3,15
+Kabaale-Kiziranfumbi,ARC2,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,False,,,2
+Kabaale-Kiziranfumbi,ARC2,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,False,,,5
+Kabaale-Kiziranfumbi,ARC2,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,False,,,1
+Kabaale-Kiziranfumbi,ARC2,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,False,,,4
+Hohwa-Butole,CHIRPS,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,True,9.1,20.6,7
+Hohwa-Butole,CHIRPS,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,True,6.2,39.4,16
+Hohwa-Butole,CHIRPS,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,True,10.4,18.7,8
+Hohwa-Butole,CHIRPS,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,True,5.8,37.7,17
+Hohwa-Butole,CPC,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,True,17.3,31.9,9
+Hohwa-Butole,CPC,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,True,4.6,56.4,15
+Hohwa-Butole,CPC,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,True,20.3,30.9,10
+Hohwa-Butole,CPC,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,True,3.0,53.3,15
+Hohwa-Butole,ARC2,2005-2017 (contractor),claim window Sep 2019-Nov 2020,15,False,,,3
+Hohwa-Butole,ARC2,2005-2017 (contractor),whole contract Apr 2019-Apr 2022,36,False,,,6
+Hohwa-Butole,ARC2,1989-2018 (30 yr pre-award),claim window Sep 2019-Nov 2020,15,False,,,3
+Hohwa-Butole,ARC2,1989-2018 (30 yr pre-award),whole contract Apr 2019-Apr 2022,36,False,,,6

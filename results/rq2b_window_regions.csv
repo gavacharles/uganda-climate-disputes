@@ -1,0 +1,6 @@
+region,P_fixed,P_chosen,inflation,years_with_fixed_exc,years_with_any_exc_window
+Central,0.501,0.88,1.809,0.23,0.586
+Eastern,0.511,0.799,1.638,0.266,0.52
+Northern,0.476,0.895,2.019,0.231,0.652
+Western,0.526,0.893,1.768,0.243,0.585
+Uganda,0.498,0.877,1.861,0.239,0.603

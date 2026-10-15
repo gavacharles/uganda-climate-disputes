@@ -1,0 +1,73 @@
+site,window,month,rain,rain_1in10,rain_excess,days5,days5_1in10,days5_excess,exceeds_1in10
+Kampala-Entebbe Expressway,MAM 2019,2019-03,114.0,214.23,0.0,9.0,17.0,0.0,False
+Kampala-Entebbe Expressway,MAM 2019,2019-04,174.79,291.96,0.0,13.0,18.4,0.0,False
+Kampala-Entebbe Expressway,MAM 2019,2019-05,237.02,231.51,5.52,17.0,18.0,0.0,True
+Kampala-Entebbe Expressway,OND 2019,2019-10,250.15,189.93,60.21,23.0,14.4,8.6,True
+Kampala-Entebbe Expressway,OND 2019,2019-11,259.14,253.31,5.84,16.0,16.4,0.0,True
+Kampala-Entebbe Expressway,OND 2019,2019-12,258.69,179.41,79.28,17.0,13.0,4.0,True
+Kampala-Entebbe Expressway,MAM 2020,2020-03,205.75,214.23,0.0,18.0,17.0,1.0,True
+Kampala-Entebbe Expressway,MAM 2020,2020-04,252.44,291.96,0.0,16.0,18.4,0.0,False
+Kampala-Entebbe Expressway,MAM 2020,2020-05,166.53,231.51,0.0,14.0,18.0,0.0,False
+Masaka-Mbarara,MAM 2019,2019-03,85.51,127.79,0.0,8.0,11.4,0.0,False
+Masaka-Mbarara,MAM 2019,2019-04,112.73,163.06,0.0,7.0,14.0,0.0,False
+Masaka-Mbarara,MAM 2019,2019-05,110.12,113.61,0.0,8.0,8.4,0.0,False
+Masaka-Mbarara,OND 2019,2019-10,129.01,162.68,0.0,11.0,13.0,0.0,False
+Masaka-Mbarara,OND 2019,2019-11,243.18,173.03,70.15,15.0,14.0,1.0,True
+Masaka-Mbarara,OND 2019,2019-12,98.76,108.72,0.0,10.0,10.4,0.0,False
+Masaka-Mbarara,MAM 2020,2020-03,107.77,127.79,0.0,7.0,11.4,0.0,False
+Masaka-Mbarara,MAM 2020,2020-04,237.0,163.06,73.94,14.0,14.0,0.0,True
+Masaka-Mbarara,MAM 2020,2020-05,59.46,113.61,0.0,4.0,8.4,0.0,False
+Kabale-Kisoro,MAM 2019,2019-03,83.01,164.2,0.0,6.0,13.0,0.0,False
+Kabale-Kisoro,MAM 2019,2019-04,148.14,200.29,0.0,9.0,15.0,0.0,False
+Kabale-Kisoro,MAM 2019,2019-05,125.47,156.25,0.0,10.0,10.4,0.0,False
+Kabale-Kisoro,OND 2019,2019-10,126.19,176.13,0.0,10.0,15.4,0.0,False
+Kabale-Kisoro,OND 2019,2019-11,156.02,168.81,0.0,9.0,13.4,0.0,False
+Kabale-Kisoro,OND 2019,2019-12,102.38,113.46,0.0,9.0,9.0,0.0,False
+Kabale-Kisoro,MAM 2020,2020-03,127.43,164.2,0.0,9.0,13.0,0.0,False
+Kabale-Kisoro,MAM 2020,2020-04,203.45,200.29,3.16,10.0,15.0,0.0,True
+Kabale-Kisoro,MAM 2020,2020-05,51.33,156.25,0.0,3.0,10.4,0.0,False
+Hoima-Butiaba-Wanseko,MAM 2019,2019-03,40.92,96.16,0.0,3.0,8.0,0.0,False
+Hoima-Butiaba-Wanseko,MAM 2019,2019-04,138.23,171.18,0.0,12.0,14.4,0.0,False
+Hoima-Butiaba-Wanseko,MAM 2019,2019-05,104.16,136.62,0.0,9.0,12.0,0.0,False
+Hoima-Butiaba-Wanseko,OND 2019,2019-10,185.67,168.97,16.7,16.0,15.0,1.0,True
+Hoima-Butiaba-Wanseko,OND 2019,2019-11,122.31,144.65,0.0,9.0,12.4,0.0,False
+Hoima-Butiaba-Wanseko,OND 2019,2019-12,83.62,55.61,28.0,7.0,4.0,3.0,True
+Hoima-Butiaba-Wanseko,MAM 2020,2020-03,98.33,96.16,2.17,10.0,8.0,2.0,True
+Hoima-Butiaba-Wanseko,MAM 2020,2020-04,133.83,171.18,0.0,12.0,14.4,0.0,False
+Hoima-Butiaba-Wanseko,MAM 2020,2020-05,98.18,136.62,0.0,8.0,12.0,0.0,False
+Gulu-Atiak,MAM 2019,2019-03,40.64,92.54,0.0,3.0,7.0,0.0,False
+Gulu-Atiak,MAM 2019,2019-04,147.83,218.28,0.0,11.0,19.4,0.0,False
+Gulu-Atiak,MAM 2019,2019-05,176.03,212.72,0.0,15.0,17.4,0.0,False
+Gulu-Atiak,OND 2019,2019-10,195.19,224.04,0.0,16.0,18.8,0.0,False
+Gulu-Atiak,OND 2019,2019-11,170.36,143.39,26.96,13.0,12.0,1.0,True
+Gulu-Atiak,OND 2019,2019-12,86.12,55.33,30.8,8.0,5.4,2.6,True
+Gulu-Atiak,MAM 2020,2020-03,127.26,92.54,34.71,11.0,7.0,4.0,True
+Gulu-Atiak,MAM 2020,2020-04,119.68,218.28,0.0,12.0,19.4,0.0,False
+Gulu-Atiak,MAM 2020,2020-05,167.19,212.72,0.0,16.0,17.4,0.0,False
+Mbale-Lwakhakha,MAM 2019,2019-03,118.76,197.85,0.0,7.0,16.0,0.0,False
+Mbale-Lwakhakha,MAM 2019,2019-04,177.62,286.62,0.0,14.0,21.4,0.0,False
+Mbale-Lwakhakha,MAM 2019,2019-05,199.23,272.61,0.0,15.0,20.0,0.0,False
+Mbale-Lwakhakha,OND 2019,2019-10,384.78,249.17,135.62,24.0,18.4,5.6,True
+Mbale-Lwakhakha,OND 2019,2019-11,243.06,238.38,4.68,16.0,17.0,0.0,True
+Mbale-Lwakhakha,OND 2019,2019-12,192.03,125.49,66.54,11.0,9.0,2.0,True
+Mbale-Lwakhakha,MAM 2020,2020-03,297.81,197.85,99.96,21.0,16.0,5.0,True
+Mbale-Lwakhakha,MAM 2020,2020-04,218.65,286.62,0.0,16.0,21.4,0.0,False
+Mbale-Lwakhakha,MAM 2020,2020-05,195.66,272.61,0.0,18.0,20.0,0.0,False
+Kapchorwa-Suam,MAM 2019,2019-03,73.2,139.27,0.0,4.0,11.0,0.0,False
+Kapchorwa-Suam,MAM 2019,2019-04,147.0,235.54,0.0,9.0,17.8,0.0,False
+Kapchorwa-Suam,MAM 2019,2019-05,171.03,238.43,0.0,10.0,15.4,0.0,False
+Kapchorwa-Suam,OND 2019,2019-10,298.04,214.81,83.23,17.0,14.0,3.0,True
+Kapchorwa-Suam,OND 2019,2019-11,172.33,196.62,0.0,11.0,11.8,0.0,False
+Kapchorwa-Suam,OND 2019,2019-12,86.97,84.78,2.19,6.0,6.0,0.0,True
+Kapchorwa-Suam,MAM 2020,2020-03,216.79,139.27,77.52,16.0,11.0,5.0,True
+Kapchorwa-Suam,MAM 2020,2020-04,216.98,235.54,0.0,16.0,17.8,0.0,False
+Kapchorwa-Suam,MAM 2020,2020-05,170.38,238.43,0.0,14.0,15.4,0.0,False
+Moroto-Nakapiripirit,MAM 2019,2019-03,58.88,96.54,0.0,4.0,8.0,0.0,False
+Moroto-Nakapiripirit,MAM 2019,2019-04,63.05,156.25,0.0,5.0,12.0,0.0,False
+Moroto-Nakapiripirit,MAM 2019,2019-05,85.85,159.6,0.0,6.0,10.4,0.0,False
+Moroto-Nakapiripirit,OND 2019,2019-10,150.11,116.03,34.09,8.0,7.4,0.6,True
+Moroto-Nakapiripirit,OND 2019,2019-11,46.29,77.4,0.0,3.0,6.4,0.0,False
+Moroto-Nakapiripirit,OND 2019,2019-12,71.06,43.36,27.7,5.0,2.4,2.6,True
+Moroto-Nakapiripirit,MAM 2020,2020-03,172.08,96.54,75.53,11.0,8.0,3.0,True
+Moroto-Nakapiripirit,MAM 2020,2020-04,172.48,156.25,16.24,18.0,12.0,6.0,True
+Moroto-Nakapiripirit,MAM 2020,2020-05,90.19,159.6,0.0,4.0,10.4,0.0,False

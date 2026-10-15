@@ -1,0 +1,9 @@
+rule,P(any),relief_days,cv,share_abnormal_relieved,product_gap,product_verdict_flip
+FIDIC Guide (status quo),0.529,5.439,1.271,0.222,1.277,0.44
+NEC4,0.974,3.356,1.039,0.137,1.117,0.04
+MoWT 1229 (algebraic sum),0.586,13.393,1.284,0.552,1.439,0.374
+MoWT 1229 (positive months only),1.0,42.643,0.404,1.744,0.511,0.0
+LWD table 1-in-10,0.875,4.2,0.866,0.172,0.908,0.212
+LWD table mean,1.0,24.451,0.374,1.0,0.41,0.0
+Shared band,1.0,14.326,0.429,0.586,0.46,0.0
+Shared band (netted),0.579,4.573,1.308,0.187,1.191,0.409
