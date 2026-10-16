@@ -36,11 +36,17 @@ The biggest source of disagreement is not how many years of records you use. It 
 
 One of these datasets also turned out to contain a silent error: from 2020 to 2023 it reads about 1.5 to 3 times wetter than the others. Used without checking, it would have made *every* rainy-season claim in 2020 "exceptional".
 
+![Bar chart: what makes an arguable weather claim contested](../figures/substack_contested.png)
+*Only 13% of arguable claim seasons get the same answer under every reasonable choice. The rainfall dataset alone flips the verdict in 36%.*
+
 ## Finding 2: the claimant chooses the window
 
 Contracts don't say whether the weather must be judged by calendar month, by season, or over any period the contractor picks. That matters a lot.
 
 If you judge by fixed seasons, about **half** of 3-year contracts contain an "exceptional" season. If the contractor can pick *any* 90-day stretch, that rises to **nearly nine in ten**. It's the same rain; the claim is stronger only because the window was chosen after the event.
+
+![Two maps of Uganda: fixed seasons vs a claimant-chosen 90-day window](../figures/rq2b_window_map.png)
+*Share of 3-year contracts with an 'exceptional' window. Left: fixed calendar seasons. Right: the claimant picks any 90-day stretch after the event.*
 
 ## Finding 3: the same rain, a different contract, a different answer
 
@@ -52,11 +58,17 @@ Under the same weather:
 
 And then there is practice. The clause says the monthly results must be added *algebraically*, so drier-than-normal months cancel wetter ones. In a real claim I reviewed, the dry months were simply recorded as zero and only the wet months were added. Applied that way across Uganda, Clause 1229 gives **43 days** per contract, more than three times as much. That is more than all the abnormal rain actually caused. Ordinary month-to-month variation becomes extension of time.
 
+![Three maps of Uganda: weather relief under FIDIC, NEC4 and a 1-in-10 month rule](../figures/substack_three_contracts.png)
+*The same rain, 1991-2025. Under FIDIC's Guide rule about half of 3-year contracts get any weather extension; under NEC4 or a 1-in-10 month rule almost all do.*
+
 ## Finding 4: one real claim, many answers
 
 On one real (anonymised) road package, the contractor claimed 21 days under Clause 1229. They used 13 years of records from a single weather station and added only the positive months. The Engineer accepted the figure as presented.
 
-I recomputed it with independent data. Depending on the dataset, the baseline years and the period assessed, the *same clause on the same contract* gives anything from **0 to 42 days**. The datasets don't even agree on which months were the abnormal ones.
+I recomputed it with independent data. Depending on the dataset, the baseline years and the period assessed, the *same clause on the same contract* gives anything from **0 to 42 days**, and up to **67 days** if only the wet months are added, as the claim did. The datasets don't even agree on which months were the abnormal ones.
+
+![Dot chart: one real claim recomputed under eight data choices](../figures/substack_project_claim.png)
+*One real claim, recomputed. Each row is a defensible choice of dataset, baseline years and period. Orange: the clause as written. Red: adding only the wet months. The dashed line is the 21 days granted.*
 
 Nobody here was acting in bad faith. The clause simply does not determine the answer until someone fixes the data.
 
@@ -75,6 +87,9 @@ I ran the contract's own formula through 20 years of real rainfall with each tab
 - With a table built from the actual rainfall record, it would earn about **26 days**.
 
 One page, typed at tender and rarely checked, decided the weather entitlement more than the weather did.
+
+![Bar chart: weather extension per contract under three rainfall tables](../figures/substack_contract_tables.png)
+*The same contract and the same rain, run through each rainfall table. The table printed at tender, not the weather, decides the answer.*
 
 ## Finding 6: climate change is coming for the baseline
 
@@ -101,6 +116,9 @@ Using a standard heat-stress index (combining temperature and humidity), I found
 
 If contracts keep "normal" frozen at tender, nearly every contract would have "exceptional" heat by then, and the test would mean nothing.
 
+![Monthly rain and heat lost working days by region](../figures/substack_rain_heat.png)
+*Northern Uganda: average working days lost each month to heavy rain (blue) and to heat stress (red), 1991-2020. From January to May, heat costs more working days than rain.*
+
 ## A better way to calculate it: the Shared Weather Allowance
 
 Instead of arguing after the event about whether the rain was "exceptional", I propose a calculation that both parties can do on the day the contract is signed. I call it the **Shared Weather Allowance (SWA)**.
@@ -125,6 +143,9 @@ Instead of arguing after the event about whether the rain was "exceptional", I p
 | Between normal and 1-in-10-year | **Shared 50:50**: half the extra days become extension of time |
 | Beyond the 1-in-10-year level | Employer: every extra day becomes extension of time |
 
+![Schematic of the Shared Weather Allowance bands](../figures/substack_swa_schematic.png)
+*How the Shared Weather Allowance splits a wet month: normal days are the contractor's, days up to the 1-in-10 level are shared, days beyond it are the employer's. The dot is the worked example below: 13 lost days give 5 days of extension.*
+
 5. **Add up the months** over the contract, then apply the usual delay analysis for overlapping causes.
 6. **State how "normal" moves with the climate.** The table is based on the 30 years before award, and the contract says whether, and when, it is updated on long contracts.
 
@@ -143,6 +164,9 @@ There's no argument about which dataset, which window or which years: they were 
 - **never** flips between "relief" and "no relief" depending on the dataset (FIDIC's Guide rule does so for 44% of contracts);
 - is about **three times more predictable** from one contract to the next than the current tests;
 - splits abnormal weather roughly **60:40** between employer and contractor, instead of all-or-nothing.
+
+![Box plot: extension of time per 3-year contract under each rule](../figures/fig15_eot_distribution.png)
+*Extension of time for every 3-year contract (1991-2018 starts) in every part of Uganda. The Shared Weather Allowance gives a narrow, predictable range and never zero. The other rules often give nothing, or swing widely.*
 
 I'll publish the monthly tables for every location in Uganda with the full study, so any engineer can put them straight into a contract.
 
@@ -174,10 +198,15 @@ That part, at least, we can settle before the first shovel goes in.
 
 **Cover image:** figures/cover_substack.png (1456 × 816; use as the post header and social preview)
 
-**Images:**
+**Images** (in order; upload each where the `![...]` line sits, and use the italic line as the caption):
 
-- After Finding 5: figures/substack_contract_tables.png
-- In the SWA section: figures/substack_swa_schematic.png
-- After Finding 7: figures/substack_rain_heat.png
+1. Finding 1: figures/substack_contested.png
+2. Finding 2: figures/rq2b_window_map.png
+3. Finding 3: figures/substack_three_contracts.png
+4. Finding 4: figures/substack_project_claim.png
+5. Finding 5: figures/substack_contract_tables.png
+6. Finding 7: figures/substack_rain_heat.png
+7. SWA, after the bands table: figures/substack_swa_schematic.png
+8. SWA, after "How it performs": figures/fig15_eot_distribution.png
 
-Optional: figures/rq2_dispute_risk_map.png after Finding 1.
+Figures 1, 3 and 4 are generated by `src/substack_figs.py`; 5-7 by `src/figs_extra.py`.
