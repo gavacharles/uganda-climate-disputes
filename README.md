@@ -8,14 +8,13 @@ Author: Gavamukulya (Gava) Charles.
 
 | Item | Where |
 |---|---|
-| Manuscript (Markdown and Word) | `paper/manuscript.md`, `paper/manuscript.docx` (build with `python src/build_docx.py`) |
+| Manuscript | Kept private until publication (built locally with `python src/build_docx.py`) |
 | Concept note, work-package notes, source register | `docs/` |
 | Figures | `figures/` |
 | Result tables | `results/` |
 | Claim schema | `data/claim_schema.json` |
 | Code | `src/` |
 | Tests | `tests/test_ei.py` |
-| Post drafts | `outreach/` |
 
 ## Code map
 
