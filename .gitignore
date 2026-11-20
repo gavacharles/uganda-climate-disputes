@@ -16,3 +16,10 @@ docs/contract_review.md
 paper/_manuscript_build.md
 paper/*.pdf
 figures/archive/
+
+# Paper drafts and write-ups are kept private (moved 2026-11-20)
+/paper/
+/outreach/
+/docs/concept_note.md
+/docs/fidic_research_agenda.md
+/docs/wp1_notes.md
